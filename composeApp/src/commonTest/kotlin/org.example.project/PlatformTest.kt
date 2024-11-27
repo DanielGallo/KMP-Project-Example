@@ -9,7 +9,7 @@ import kotlin.test.assertFalse
 import kotlin.test.assertNull
 import kotlin.test.assertNotNull
 
-class GreetingTest {
+class PlatformTest {
 
     @Test
     fun shouldEqualEachOther() {
