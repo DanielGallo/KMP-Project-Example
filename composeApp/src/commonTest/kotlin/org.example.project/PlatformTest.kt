@@ -14,7 +14,7 @@ class PlatformTest {
     @Test
     fun shouldEqualEachOther() {
         assertEquals(2, 2)
-
+        println("hello")
     }
 
     @Test
